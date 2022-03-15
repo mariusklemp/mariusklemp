@@ -9,13 +9,13 @@ Heyy!! I´m Marius Klemp Petersen!
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>
   </a>
   <a href="https://www.facebook.com/marius.klemppetersen/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="40" height="40"/>
   </a>
   <a href="https://twitter.com/marius_klemp">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="40" height="40"/>
   </a>
 </div>
 
