@@ -56,6 +56,8 @@ Heyy!! I´m Marius Klemp Petersen!
   </a> 
    
    <h2> :fire: My Stats : </h2>
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mariusklemp)](https://github.com/anuraghazra/github-readme-stats)
+    [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mariusklemp&theme=soft-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+    
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mariusklemp&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
