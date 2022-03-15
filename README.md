@@ -7,6 +7,7 @@ Heyy!! I´m Marius Klemp Petersen!
   </a> I’m currently on my 4th semester in computer science at NTNU
 - 📫 You can reach me by E-mail: mariusklemppetersen@gmail.com
 
+<h2 🌎 My platforms: </h2>
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
