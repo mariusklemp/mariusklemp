@@ -1,5 +1,6 @@
-<h2> ### 👋About me</h2>
-Heyy 👋 I´m Marius Klemp Petersen!
+---
+👋About me
+Heyy!! I´m Marius Klemp Petersen!
 
 - <a href="https://www.ntnu.no/studier/bidata">
     <img src="https://www.google.com/search?q=ntnu%20logo%20uten%20bakgrunn&tbm=isch&hl=no&sa=X&ved=0CCEQtI8BKAJqFwoTCOD8jr25yPYCFQAAAAAdAAAAABAH&biw=1440&bih=821#imgrc=OyVZBH2TNt8obM"/>
@@ -19,7 +20,7 @@ Heyy 👋 I´m Marius Klemp Petersen!
 </div>
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
 <div>
   <a href="https://www.w3schools.com/java/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
