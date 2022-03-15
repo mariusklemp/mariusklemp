@@ -1,4 +1,4 @@
-<h2>About me</h2>
+<h2> ### 👋About me</h2>
 Heyy 👋 I´m Marius Klemp Petersen!
 
 - <a href="https://www.ntnu.no/studier/bidata">
@@ -18,7 +18,7 @@ Heyy 👋 I´m Marius Klemp Petersen!
   </a>
 </div>
 
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <a href="https://www.w3schools.com/java/">
