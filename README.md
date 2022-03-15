@@ -3,7 +3,7 @@
 Heyy!! I´m Marius Klemp Petersen!
 
 - <a href="https://www.ntnu.no/studier/bidata">
-    <img src="https://www.google.com/search?q=ntnu&sxsrf=APq-WBu_IblKMeOAc05ULL2Y3BTpojdcLg:1647362929301&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj2592Rycj2AhXvxIsKHXt1BrkQ_AUoAXoECAIQAw&biw=1440&bih=821&dpr=2#imgrc=PjqQBQcIsaIZlM"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo-Ntnu.svg" width="20" height="20"/>
   </a> I’m currently on my 4th semester in computer science at NTNU
 - 📫 You can reach me by E-mail: mariusklemppetersen@gmail.com
 
