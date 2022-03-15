@@ -9,7 +9,7 @@ Heyy!! I´m Marius Klemp Petersen!
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/marius.klemppetersen/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="40" height="40"/>
