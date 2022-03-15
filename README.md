@@ -1,13 +1,13 @@
 
-<h2>👋About me: </h2>
+<h2>👋  About me: </h2>
 Heyy!! I´m Marius Klemp Petersen!
 
 - <a href="https://www.ntnu.no/studier/bidata">
-    <img src="https://www.google.com/search?q=ntnu%20logo%20uten%20bakgrunn&tbm=isch&hl=no&sa=X&ved=0CCEQtI8BKAJqFwoTCOD8jr25yPYCFQAAAAAdAAAAABAH&biw=1440&bih=821#imgrc=OyVZBH2TNt8obM"/>
+    <img src="https://www.google.com/search?q=ntnu&sxsrf=APq-WBu_IblKMeOAc05ULL2Y3BTpojdcLg:1647362929301&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj2592Rycj2AhXvxIsKHXt1BrkQ_AUoAXoECAIQAw&biw=1440&bih=821&dpr=2#imgrc=PjqQBQcIsaIZlM"/>
   </a> I’m currently on my 4th semester in computer science at NTNU
 - 📫 You can reach me by E-mail: mariusklemppetersen@gmail.com
 
-<h2 🌎 My platforms: </h2>
+<h2> 🌎  My platforms: </h2>
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
@@ -21,7 +21,7 @@ Heyy!! I´m Marius Klemp Petersen!
 </div>
 
 
-<h2>:hammer_and_wrench: Languages and Tools: </h2>
+<h2>:hammer_and_wrench:  Languages and Tools: </h2>
 <div>
   <a href="https://www.w3schools.com/java/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
