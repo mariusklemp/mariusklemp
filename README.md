@@ -54,6 +54,8 @@ Heyy!! I´m Marius Klemp Petersen!
   <a href="https://www.w3schools.com/php/php_mysql_intro.asp">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   </a> 
-  
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariusklemp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+   
+   <h2> :fire: My Stats : </h2>
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mariusklemp)](https://github.com/anuraghazra/github-readme-stats)
+    
 </div>
