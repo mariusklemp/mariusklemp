@@ -4,7 +4,8 @@ Heyy!! I´m Marius Klemp Petersen!
 
 - <a href="https://www.ntnu.no/studier/bidata">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo-Ntnu.svg" width="20" height="20"/>
-  </a> I’m currently on my 4th semester in computer science at NTNU
+  </a> I’m starting on my 5th semester in computer science at NTNU after the summer
+- I’m currently working as a summer intern at Properate
 - 📫 You can reach me by E-mail: mariusklemppetersen@gmail.com
 
 <h2> 🌎  My platforms: </h2>
