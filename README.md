@@ -63,5 +63,7 @@ Heyy!! I´m Marius Klemp Petersen!
   
   [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariusklemp&theme=default)](https://github.com/anuraghazra/github-readme-stats)
   
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariusklemp&" alt="mariusklemp" /></p>
+  
     
 </div>
