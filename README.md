@@ -1,7 +1,7 @@
 
 # 👋  About me
-Heyy!! I'm Marius Klemp Petersen! Im a computer science student from NTNU Trondheim, and I'm currently on my last year of my bachelor degreee.
-Next to my studies I'm working part time as a backend developer at Properate.
+Heyy!! I'm Marius Klemp Petersen! Im a computer science student from NTNU Trondheim, and I'm currently on my last year of my masters degreee.
+Next to my studies I'm working part time as a fullstack developer.
 
 
 
