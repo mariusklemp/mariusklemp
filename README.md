@@ -1,6 +1,7 @@
 
 # 👋  About me
-Heyy!! I'm Marius Klemp Petersen and I am fullstack developer! I have a computer science master degree from NTNU Trondheim. I'm currently working in Sopra Steria. 
+Heyy!! I'm Marius Klemp Petersen and I am fullstack developer! I have a computer science master degree from NTNU Trondheim.
+I'm currently working in Sopra Steria. 
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -27,8 +28,11 @@ Heyy!! I'm Marius Klemp Petersen and I am fullstack developer! I have a computer
 
 
 
-## 🔥 My Stats:
+##
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariusklemp&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariusklemp&theme=github_dark)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mariusklemp&theme=github_dark&utcOffset=1)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariusklemp&" alt="mariusklemp" /></p>
+
   
     
